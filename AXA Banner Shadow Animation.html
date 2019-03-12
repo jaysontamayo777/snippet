@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body, html {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+.home-banner__stroke-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.home-banner__stroke {
+    height: 123px;
+    width: 138px;
+    box-shadow: 0px 0px 0px 2000px #000;
+    opacity: 0.5;
+    transform: scale3d(1.02, 1.02, 1.02);
+    animation: scale-effect 1s forwards 1s;
+    background: linear-gradient(128deg, #000 78px, transparent 78px, transparent 110px, #000 110px, #000);
+}
+
+@media (min-width: 768px)
+.home-banner__stroke {
+    height: 250px;
+    width: 280px;
+    background: linear-gradient(128deg, #000 155px, transparent 155px, transparent 220px, #000 220px, #000);
+}
+
+@media (min-width: 992px)
+.home-banner__stroke {
+    height: 299px;
+    width: 339px;
+    background: linear-gradient(128deg, #000 185px, transparent 185px, transparent 265px, #000 265px, #000);
+}
+
+@keyframes scale-effect {
+  0% {
+    transform: scale3d(1.01, 1.01, 1.01); }
+  100% {
+    transform: scale3d(25, 25, 1); } 
+}
+</style>
+</head>
+<body>
+
+<div class="home-banner__stroke-container">
+	<div class="home-banner__stroke"></div>
+</div>
+
+<p>Page Content..</p>
+
+</body>
+</html>
