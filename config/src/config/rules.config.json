@@ -1,0 +1,55 @@
+{
+  "rules": {
+    "TRAVEL_INSURANCE": {
+      "DEPARTURE_MIN_DATE": -1,
+      "ARRIVAL_MIN_DATE": -1,
+      "ARRIVAL_MAX_DATE_FROM_DEPARTURE_ONEWAY": 7,
+      "ARRIVAL_MAX_DATE_FROM_DEPARTURE_RETURN": 184,
+      "START_MIN_DATE": -1,
+      "START_MAX_DATE": 180,
+      "YEAR_LENGTH": 364,
+      "NUM_OF_ADULT_INDIVIDUAL": 9,
+      "NUM_OF_ANNUAL_ADULT_INDIVIDUAL": 1,
+      "NUM_OF_ADULT_FAMILY": 2,
+      "NUM_OF_CHILD_FAMILY": 4,
+      "HAS_PROMO_CODE": true,
+      "HAS_CURRENCY_SELECTOR": true,
+      "HAS_INFO_BOX": true
+    },
+    "PLAN_SELECTION": {
+      "HAS_TRIP_SUMMARY": true
+    },
+    "PAYMENT_CONFIRMATION": {
+      "HAS_ERROR_FORM": false
+    },
+    "HAS_SEND_QUOTE_FORM": true,
+    "HAS_RETRY": true,
+    "DATE_FORMAT": "YYYY-MM-DD",
+    "PURCHASE_MAX_DATE_RANGE": 90,
+    "MAX_AGE_CHILD": 17,
+    "MIN_AGE_CHILD_DAYS": 30,
+    "MIN_AGE_ADULT": 18,
+    "MAX_AGE_ADULT": 74,
+    "MAX_AGE_ADULT_SINGLE_CLASSIC": 85,
+    "CURRENCY": "PHP",
+    "TRAVEL_DESTINATIONS": [
+      { "value": "Asia", "label": "Asia" },
+      { "value": "Worldwide", "label": "Worldwide" }
+    ],
+    "CURRENCY_LIST": [
+      { "value": "PHP", "label": "PHP" },
+      { "value": "USD", "label": "USD" }
+    ],
+    "GENDER_LIST": [
+      { "value": "FEMALE", "label": "miss" },
+      { "value": "MALE", "label": "mr" }
+    ],
+    "CHILD_GENDER_LIST": [
+      { "value": "MALE", "label": "boy" },
+      { "value": "FEMALE", "label": "girl" }
+    ],
+    "REVIEW": {
+      "HAS_TRIP_SUMMARY": true
+    }
+  }
+}

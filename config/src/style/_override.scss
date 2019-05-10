@@ -1,0 +1,56 @@
+//----- general
+button,
+a,
+.btn {
+  outline: none !important;
+  font-size: 18px;
+}
+
+ol {
+  font-size: 18px;
+}
+
+p {
+  max-width: 100%;
+}
+
+input,
+.form-control {
+  box-shadow: none !important;
+}
+
+input[type='text'],
+input[type='tel'] input[type='email'],
+input[type='number'] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+//----- @axa
+.form-control {
+  padding: 7px !important;
+}
+
+// no color label
+.has-error {
+  .control-label,
+  .help-block {
+    color: $color-axa-red !important;
+  }
+
+  .icon-radio span.outer {
+    border-color: $color-axa-red;
+    span.inner {
+      border-color: $color-axa-red;
+    }
+  }
+}
+
+.text__error-sm {
+  color: #a94442;
+  font-size: 12px;
+  padding: 0;
+  margin-top: 5px;
+  text-transform: none;
+  line-height: 1;
+}

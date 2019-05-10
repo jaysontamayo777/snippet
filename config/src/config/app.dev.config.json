@@ -1,0 +1,7 @@
+{
+  "test": true,
+  "mwUrl": "https://ph-website-sit.paas.axa-asia.com/travel-insurance/api",
+  "headers": {
+    "entity": "PH"
+  }
+}

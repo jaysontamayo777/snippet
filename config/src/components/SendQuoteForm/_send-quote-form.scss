@@ -1,0 +1,72 @@
+#send-quote-container {
+  box-shadow: none;
+  margin-top: 35px;
+
+  .send-quote-row {
+    display: flex;
+    margin-bottom: 15px;
+    line-height: 1.5;
+    letter-spacing: 0.2px;
+
+    &__col-1 {
+      width: 25px;
+    }
+
+    &__col-2 {
+      display: flex;
+      flex: 1;
+      font-size: 14px;
+      letter-spacing: 0.2px;
+      align-items: center;
+
+      a {
+        font-size: inherit;
+        text-decoration: none;
+      }
+    }
+  }
+
+  .send-quote-label {
+    font-size: 15px;
+    margin-bottom: 5px;
+  }
+
+  .send-quote-group {
+    display: flex;
+    height: 40px;
+
+    &__col-1 {
+      display: inherit;
+      flex: 1;
+
+      .form-group {
+        width: 100%;
+      }
+
+      input {
+        height: inherit;
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+      }
+    }
+
+    &__col-2 {
+      height: inherit;
+      margin-left: 20px;
+      
+      button {
+        height: inherit;
+      }
+    }
+  }
+
+  .panel-heading {
+    background: transparent !important;
+  }
+}
+
+@media (max-width: 450px) {
+  #send-quote-container {
+    margin-top: 15px;
+  }
+}

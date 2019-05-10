@@ -1,0 +1,44 @@
+.base-box {
+  //margin-top: 58px;
+  margin-bottom: 40px;
+  box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+  border: solid 1px #cccccc;
+
+  &--header {
+    padding: 30px;
+
+    font-family: "PublicoHeadlineWeb";
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.21;
+    letter-spacing: normal;
+    text-align: left;
+    color: #343c3f;
+    border-bottom: solid 1px #cccccc;
+
+    span {
+      margin-left: 10px;
+      font-family: SourceSansPro;
+      font-size: 16px;
+      font-weight: normal;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: 1.5;
+      letter-spacing: 0.2px;
+      text-align: left;
+      color: #333333;
+      margin-bottom: 10px;
+    }
+  }
+  &--content {
+
+  }
+
+  &-2 {
+    background-color: transparent;
+    border: solid 1px #cccccc;
+  }
+}

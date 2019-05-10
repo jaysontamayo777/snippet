@@ -1,0 +1,4 @@
+export default {
+  DOMESTIC: 'DOMESTIC',
+  INTERNATIONAL: 'INTERNATIONAL'
+};

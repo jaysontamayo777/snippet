@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700');
+
+@import '@axa/web-toolkit/scss/style.scss';
+@import './_variables.scss';
+@import './_general.scss';
+@import './_animation.scss';
+
+@import '../components/Header/_header.scss';
+
+@import '../components/Modal/_modal-wrapper.scss';
+
+@import '../components/Toastr/_toastr.scss';
+@import '../components/SendQuoteForm/_send-quote-form.scss';
+@import '../components/BaseBox/_base-box.scss';
+
+@import './_mobile.scss';
+
+@import './override.scss';

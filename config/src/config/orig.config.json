@@ -1,0 +1,7 @@
+{
+  "test": true,
+  "mwUrl": "https://hk-web-uat.paas.axa-asia.com/en/travel-insurance/api",
+  "headers": {
+    "entity": "HK"
+  }
+}

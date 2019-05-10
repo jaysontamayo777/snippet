@@ -1,0 +1,66 @@
+body {
+  .mobile {
+    &-visible {
+      display: none;
+    }
+    &-hidden {
+      display: block;
+      position: relative
+    }
+  }
+
+  &.is {
+    &__phone {
+      .mobile {
+        &-visible {
+          display: block;
+        }
+        &-hidden {
+          display: none;
+        }
+      }
+    }
+
+    &__phone,
+    &__tablet {
+      .p-bar {
+        overflow-x: scroll !important;
+      }
+
+      .p-bar-2 {
+        .flat_travel {
+          overflow-x: scroll !important;
+        }
+      }
+    }
+
+    // &__ios
+    // &__android
+    // &__windows
+  }
+}
+
+@media (max-width: 991px) {
+  .is-mobile {
+    .header--subpages {
+      position: fixed;
+      top: 0; 
+    }
+    .p-bar {
+      position: fixed;
+      margin-top: 58px;
+      width: 100%;
+      z-index: 15;
+    }
+  }
+  .plan-selection,
+  .customer-details,
+  #customer-review,
+  #payment-page,
+  #customer-referral {
+    padding-top: 15px;
+  }
+  #payment-success,
+  #payment-error {
+    padding-top: 5px; } 
+}

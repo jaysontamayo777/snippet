@@ -1,0 +1,423 @@
+{
+  "pagetitle": {
+    "title": "Travel - AXA Philippines"
+  },
+  "loader": {
+    "loading": "Loading..."
+  },
+  "header-top-links": {
+    "contactUs": "CONTACT US",
+    "language": "中文",
+    "login": "LOG IN"
+  },
+  "header-nav-links": {
+    "individual": "INDIVIDUAL",
+    "business": "BUSINESS",
+    "customerService": "CUSTOMER SERVICE",
+    "joinUs": "JOIN US",
+    "aboutAXA": "ABOUT AXA",
+    "myAXA": "MYAXA"
+  },
+  "header-individual": {
+    "lifeAndMedical": "LIFE AND MEDICAL",
+    "lifeInsuranceAndSavings": "Life Insurance & Savings",
+    "medicalProtection": "Medical Protection",
+    "criticalIllnessProtection": "Critical Illness Protection",
+    "accidentAndDisabilityProtection": "Accident & Disability Protection",
+    "longTermCareProtection": "Long-term Care Protection",
+    "generalProtection": "GENERAL PROTECTION",
+    "travelProtection": "Travel Insurance",
+    "homeInsurance": "Home Insurance",
+    "helperProtection": "Helper Protection",
+    "carInsurance": "Car Insurance",
+    "fineArt": "High-end Home Insurance",
+    "overseasStudent": "Overseas Student",
+    "investment": "INVESTMENT",
+    "investmentLinkedInsurance": "Investment Linked Insurance",
+    "fundPrices": "Fund Prices",
+    "wellness": "Wellness Programme Exclusive Offers",
+    "wellnessMobile": "Wellness Programme"
+  },
+  "header-business": {
+    "employeeBenefits": "EMPLOYEE BENEFITS",
+    "corporateSolutions": "Corporate Solutions",
+    "smallBusinessSolutions": "Small Business Solutions",
+    "memberPrivileges": "Member Privileges",
+    "businessInsurance": "BUSINESS INSURANCE",
+    "smePackage": "SME Package",
+    "commercialMotor": "Commercial Motor",
+    "keymanInsurance": "Keyman Insurance",
+    "shareProtection": "Share Protection",
+    "employeesCompensation": "Employees' Compensation",
+    "marine": "Marine",
+    "propertyAllRisks": "Property All Risks",
+    "publicLiability": "Public Liability",
+    "specialLiability": "Special Liability",
+    "contractorsAllRisks": "Contractors' All Risks",
+    "mpf": "MPF / ORSO",
+    "sme": "SME",
+    "smeInsurance": "SME Insurance",
+    "tailorMadeSol": "Tailor Made Solutions",
+    "corporate": "CORPORATE",
+    "busTailorMadeSol": "Tailor Made Solutions",
+    "busEmployeeBenefits": "Employee Benefits",
+    "busMpf": "MPF / ORSO",
+    "empBenefitsMemPri": "Employee Benefits Member Privileges"
+  },
+  "header-customerservice": {
+    "customerLogin": "Customer Login",
+    "downloads": "Downloads",
+    "claims": "Claims",
+    "customerServiceCentres": "Customer Service Centres",
+    "paymentMethod": "Payment Method",
+    "importantNotice": "Important Notice",
+    "commonReportingStandard": "Common Reporting Standard",
+    "insuranceAuthorityLevy": "Insurance Authority Levy",
+    "faq": "FAQs",
+    "glossary": "Glossary"
+  },
+  "header-joinus": {
+    "corporateStaff": "Corporate Staff",
+    "financialConsultants": "Financial Consultants",
+    "AXAInternshipProgram": "AXA Internship Program",
+    "jobSearch": "Job Search",
+    "why": "Why Work for AXA",
+    "purpose": "Our Purpose, Culture and Values",
+    "benefits": "Benefits",
+    "career": "Career Development"
+  },
+  "header-aboutaxa": {
+    "ourCompany": "Our Company",
+    "newsRoom": "News Room",
+    "promotions": "Promotions",
+    "corporateResponsibility": "Corporate Responsibility"
+  },
+  "header-myaxa": {
+    "eServiceHeadline": "MyAXA eService has launched!",
+    "eServiceHeadlineMobile": "MyAXA eServices",
+    "eServiceContentHighlight": "Service exclusive to Life & Savings, Health&Protection and Investment policy Holders",
+    "eServiceContent": "MyAXA eServices gives you full control over your Life, Health and and Investment policies & claims whenever it suits you.",
+    "eServiceLoginLabel": "Already have an account?",
+    "eServiceLoginButton": "ESERVICE LOGIN",
+    "eServiceLoginButtonMobile": "LOGIN",
+    "eServiceRegisterLabel": "Don't have an account?",
+    "eServiceRegisterButton": "REGISTER NOW",
+    "eServiceRegisterButtonMobile": "REGISTER",
+    "eServiceKeyFunctions": "Key Functions",
+    "onlinePayment": "Online Payment",
+    "trackClaims": "Track Claims",
+    "manageInvestments": "Manage Investments",
+    "contactFinancialConsultant": "Contact Financial Consultant",
+    "myAXAAppHeadline": "MyAXA Smartphone App",
+    "myAXAAppHeadlineMobile": "MyAXA App",
+    "myAXAAppContentHighlight": "Service exclusive to employee benefit members",
+    "myAXAAppContentHighlightMobile": "Exclusive for Employee Benefits Members. MyAXA app is available on the Android & Apple stores.",
+    "myAXAAppContent": "MyAXA App allows you to easily access and manage your Group Medical policies, submit & track claims, use eHealth Card and more.",
+    "myAXAAppDownloadButton": "DOWNLOAD APP",
+    "myAXAAppLearnMoreButton": "LEARN MORE",
+    "myAXAAppKeyFunctions": "Key Functions",
+    "submitAndTrackClaims": "Submit &Track Claims",
+    "searchDoctor": "Search Doctor",
+    "useeHealthCard": "Use eHealth Card",
+    "useePrescription": "Use ePrescription"
+  },
+  "header-modal": {
+    "customer": "Customer",
+    "myAXA": "MyAXA",
+    "lifeeServices": "Life eServices",
+    "mpf": "MPF",
+    "orso": "ORSO",
+    "nextToYou": "Next to You",
+    "employeeBenefits": "Employee Benefits",
+    "healthcareeService": "Healthcare eService",
+    "partner": "Partner",
+    "smartDrive": "SmartDrive",
+    "smartCargo": "SmartCargo",
+    "AXAeGuide": "AXA eGuide",
+    "travel": "Travel",
+    "consultant": "Consultant",
+    "AXAiProOffice": "AXAiProOffice"
+  },
+  "header2": {
+    "needHelp": "Need some help?",
+    "callHelp": "Call (852) 2867 8688",
+    "telNum": "(852) 2867 8688"
+  },
+  "navbarlinks": {
+    "getAQuote": "Get a Quote",
+    "promotions": "Promotions",
+    "benefits": "Benefits",
+    "coverage": "Coverage",
+    "options": "Options",
+    "testimonials": "More Info",
+    "claims": "Claims",
+    "faq": "FAQs"
+  },
+  "profiling-labels": {
+    "coverType": "Cover",
+    "travelType": "Travel Type",
+    "destination": "Destination",
+    "date": "Travel Date",
+    "travellers": "Travellers",
+    "noOfInsuredTravellers": "Number of Insured Travellers",
+    "button": "Let's do it!"
+  },
+  "profiling-covertypes": {
+    "singleTrip": "Single Trip",
+    "annualMultiTrip": "Annual Multi Trip",
+    "info": "<b>Single Journey:</b> covers your single journey with a maximum duration up to 184 days. <br /><b>Annual cover:</b> covers unlimited journeys for entire year, as long as each trip does not exceed 90 days."
+  },
+  "profiling-destination": {
+    "placeholder": "Where will you travel?"
+  },
+  "profiling-traveltypes": {
+    "return": "Return",
+    "oneWay": "One Way",
+    "info": "<b>Memorandum for Automatic 10 Days Extension (applicable to Single Journey Only ):</b> This applies to both One Way trip and Return trip of a Single Journey.This insurance will be automatically extended for a maximum period of 10 days without additional premium charged for such extension in the event that the Insured Person is unavoidably delayed in the course of the scheduled itinerary which was stipulated prior to departure.<b>Memorandum for One Way Cover (applicable to Single Journey Only):</b>For Insured Person not returning to Hong  Kong, cover terminates no later than 7 days from scheduled time of arrival at the country of final destination or expiry of the original declared period of insurance whichever is the earlier."
+  },
+  "profiling-noofinsuredtravellers": {
+    "adult": "Adult",
+    "child": "Child",
+    "info": "<b>Adult:</b> The insured person must be aged above 18 and below 85 (single journey) or 75 (annual cover) before the inception of the journey or first commencement date of the policy. <br /><b>Child:</b> Dependent and unmarried child/children who are aged between thirty (30) days and under 18 years old."
+  },
+  "profiling-date": {
+    "from": "From",
+    "to": "To"
+  },
+  "profiling-travellers": {
+    "onlyAdults": "Only Adults",
+    "family": "Family",
+    "info": "<b>Family:</b> Family refers to insured person, his/her spouse and children aged under 18 travelling with the insured person and/or his/her spouse for the entire period."
+  },
+  "profiling-errors": {
+    "invalidTravelType": "Invalid Travel Type",
+    "invalidStartDate": "Start Date should start from today",
+    "startDateOverLimit": "Start Date over limit. You can purchase 90 days in advance.",
+    "invalidEndDate": "End Date should be after Start Date",
+    "endDateOverLimit": "End Date over limit. ",
+    "invalidAnnualEndDate": "End Date should be one year from Start Date",
+    "invalidNumberOfAdult": "Invalid number of Adult",
+    "invalidNumberOfAdultForFamily": "Please select \"Only Adults\".",
+    "invalidNumberOfMainInsured": "Invalid number of main insured",
+    "invalidNumberOfSpouse": "Invalid number of spouse",
+    "invalidNumberOfChildren": "Invalid number of children",
+    "invalidPromoCode": "You might have entered an invalid or used promotional code.",
+    "required": "This field is required"
+  },
+  "travel-type": {
+    "singleTripWithReturn": "Single Journey with return",
+    "singleTripWithOneWay": "Single Journey with one way",
+    "annual": "Annual Cover"
+  },
+  "quote-details": {
+    "yourQuote": "Your Quote",
+    "from": "from",
+    "to": "to",
+    "adult": "adult",
+    "adults": "adults",
+    "child": "child",
+    "children": "children",
+    "changeTravelDetails": "Change Travel Details"
+  },
+  "quote-error": {
+    "title": "Opps, something went wrong",
+    "description": "Please try again and sorry for this inconvenience.<br />Or contact us if you keep seeing this and need further assistance."
+  },
+  "quote-save": {
+    "saveYourQuote": "Not sure yet? Save your quote",
+    "saveQuoteDesc": "Need more time before your purchase? Just send your quote to your email and retrieve it later.",
+    "emailAddress": "Email address",
+    "check1": "I understand and agree that by filling out my personal information above, I authorize AXA Philippines, including its affiliates, subsidiaries, third parties contracted by AXA Philippines, to use said personal information to evaluate and assess my request and further, I consent to receive notices and announcements for marketing purposes via Short Messaging Services (SMS), e-mail, other electronic platform, or telephone call from AXA Philippines its affiliates, subsidiaries, including any person or entities providing services on AXA’s behalf, consistent with the purpose for which the information was obtained. For more details, please refer to Privacy Policy.",
+    "check2": "I/We agree with the use and provision of my/our personal data for direct marketing purposes as set out in the <a href=\"https://www.axa.com.hk/assets/general_insurance/general/PICS.pdf\" target=\"_blank\">Personal Information Collection Statement</a> (see \"Use and provision of personal data in direct marketing\") and wish to receive any promotional and direct marketing materials.",
+    "save": "Send Quote"
+  },
+  "planselectiontable": {
+    "yourSelectedPlan": "Your Selected Plan",
+    "select": "Select",
+    "selected": "Selected",
+    "getAQuote": "Get A Quote",
+    "downloadBrochure": "Download Brochure",
+    "selectAPlan": "Select a plan"
+  },
+  "addons": {
+    "yourOptions": "Your Options",
+    "add": "Add",
+    "remove": "Remove"
+  },
+  "basket": {
+    "title": "Total Premium",
+    "product": "Travel Insurance",
+    "options": "Your Options",
+    "iaLevy": "IA Levy^",
+    "discount": "Discount",
+    "promoCodeTitle": "Do you have a group code?",
+    "promoCodeField": "Enter Group Code",
+    "applyPromoCode": "Apply",
+    "next": "Next",
+    "payNow": "Pay Now",
+    "buyAgain": "Buy Again",
+    "localGovtTax": "Local Gov't Tax",
+    "premiumTax": "Premium Tax",
+    "docStamp": "Documentary Stamp Tax",
+    "refAgent": "Were you referred by an agent? (optional)"
+  },
+  "agent-component": {
+    "title": "Agent Code",
+    "agentCode": "Agent Code",
+    "invalidAgentCode": "Invalid agent code."
+  },
+  "customer-details-form": {
+    "title": "Proposer - Personal Information",
+    "insuredDeclaration": "I am one of the insured persons and Philippines resident",
+    "miss": "Miss/Mrs.",
+    "mr": "Mr.",
+    "surname": "Surname",
+    "givenName": "Given Name",
+    "bday": "Birthday",
+    "address": "Correspondence Address",
+    "adress1": "Flat, Floor or Block No",
+    "address2": "Building or Estate Name",
+    "address3": "Street Number & District",
+    "district": "District",
+    "districtOption1": "Makati",
+    "districtOption2": "Philippines",
+    "districtOption3": "New Territories",
+    "phone": "Phone number",
+    "email": "E-mail address",
+    "confirmEmail": "Confirm your email address",
+    "insuredTitle": "Information - Insured",
+    "adult": "Adult #",
+    "child": "Child #",
+    "boy": "Boy",
+    "girl": "Girl"
+  },
+  "customer-details-errors": {
+    "invalidResidence": "The proposer must be travelling and Philippines resident. Please call 2867 8688 if you would like to purchase on someone else\"s behalf.",
+    "invalidLastName": "Please enter your last name in English.",
+    "invalidFirstName": "Please enter your first name in English.",
+    "incorrectDateFormat": "Please enter correct date.",
+    "invalidAdultDOB": "Your age must be between 18 and 85 (Single Journey) / 75 (Annual Cover or VIP Plan) years old.",
+    "invalidPolicyHolderDOB": "Your age must be between 18 and 85 (Single Journey) / 75 (Annual Cover or VIP Plan) years old.",
+    "invalidSingleVIPAdultDOB": "Your age must be between 18 and 85 (Single Journey) / 75 (Annual Cover or VIP Plan) years old.",
+    "invalidSingleVIPPolicyHolderDOB": "Your age must be between 18 and 85 (Single Journey) / 75 (Annual Cover or VIP Plan) years old.",
+    "invalidChildDOB": "Insured child must be between thirty (30) days and under 18 years old.",
+    "invalidEmail": "Please enter correct email address.",
+    "emailTooLong": "Please enter correct email address.",
+    "emailDoNotMatch": "Please enter correct email address.",
+    "invalidStaffEmail": "Please enter valid staff email address.",
+    "invalidPhoneNumber": "Please enter valid phone number.",
+    "invalidAddress": "Please enter correct address.",
+    "addressTooLong": "You have reached the maximum character limit for this field",
+    "invalidDistrict": "Please enter correct district.",
+    "required": "This field is required."
+  },
+  "review-details": {
+    "title": "Last Review!",
+    "description": "Review and ensure everything is alright.",
+    "travelDetailsTitle": "Your travel insurance details",
+    "insuredProposerTitle": "Proposer/Insured Person #1",
+    "proposerTitle": "Proposer",
+    "insuredAdult": "Insured Adult #",
+    "insuredChild": "Insured Child #",
+    "travelType": "Travel Type",
+    "from": "From",
+    "to": "To",
+    "travellers": "Travellers",
+    "civility": "Salute",
+    "name": "Name",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "middleInitial": "Middle Initial",
+    "dob": "Birthday",
+    "address": "Address",
+    "phoneNo": "Phone number",
+    "mobileNo": "Mobile number",
+    "email": "E-mail address",
+    "nationality": "Nationality",
+    "contactNumber": "Contact number",
+    "beneficiary": "Beneficiary",
+    "occupation": "Occupation",
+    "gender": "Gender",
+    "relationship": "Relationship",
+    "policyType": "Policy Type",
+    "origin": "Origin",
+    "destination": "Destination",
+    "domestic": "Domestic",
+    "international": "International",
+    "region": "Region",
+    "idType": "ID Type",
+    "idNo": "ID No"
+  },
+  "payment": {
+    "payment": "Payment",
+    "redirectMessage": "Loading...<br><br>You are now leaving the AXA website and <br>will be redirected to Paydollar (Payment Gateway Service Provider) for payment."
+  },
+  "payment-success": {
+    "message": "Paid and Confirmed!",
+    "details": "Your policy and policy schedule has been sent to your email."
+  },
+  "payment-failed": {
+    "message": "Payment Failed",
+    "details": "Please contanct customer service for further assistance."
+  },
+  "payment-error": {
+    "message": "Oops, something went wrong.",
+    "details": "Please contanct customer service for further assistance."
+  },
+  "customer-referral": {
+    "title": "Thank you for choosing AXA.",
+    "desc": "We are sorry that your application cannot be processed online. Please try again or contact us."
+  },
+  "termsandconditions": {
+    "title": "Terms and Conditions",
+    "checkbox1Classic": "I have read and agreed with the <a href=\"https://www.axa.com.hk/assets/general_insurance/general/TermsOfUse.pdf\" target=\"_blank\">Terms of Use</a>, <a href=\"http://www.axa.com.hk/assets/axahongkong/pdf/swap/Declaration_Travel.pdf\" target=\"_blank\">Declaration</a>, <a href=\"/smarttraveller-vip-policy-wordings\" target=\"_blank\">Policy terms, conditions & exclusions</a>, <a href=\"https://axahk.cdn.axa-contento-118412.eu/axahk%2Fc308aede-b0bd-45dc-9dbd-ccd9f18e08e2_sts-f-e-0717+%28p-h626%29.pdf\" target=\"_blank\">Endorsement</a>, <a href=\"https://www.axa.com.hk/assets/general_insurance/general/PrivacyPolicy.pdf\" target=\"_blank\">Privacy Policy Statement</a> and <a href=\"https://www.axa.com.hk/assets/general_insurance/general/PICS.pdf\" target=\"_blank\">Personal Information Collection Statement</a>",
+    "checkbox1Essential": "I have read and agreed with the <a href=\"https://www.axa.com.hk/assets/general_insurance/general/TermsOfUse.pdf\" target=\"_blank\">Terms of Use</a>, <a href=\"http://www.axa.com.hk/assets/axahongkong/pdf/swap/Declaration_Travel.pdf\" target=\"_blank\">Declaration</a>, <a href=\"/smarttraveller-essential-policy-wordings\" target=\"_blank\">Policy terms, conditions & exclusions</a>, <a href=\"https://axahk.cdn.axa-contento-118412.eu/axahk%2Fc308aede-b0bd-45dc-9dbd-ccd9f18e08e2_sts-f-e-0717+%28p-h626%29.pdf\" target=\"_blank\">Endorsement</a>, <a href=\"https://www.axa.com.hk/assets/general_insurance/general/PrivacyPolicy.pdf\" target=\"_blank\">Privacy Policy Statement</a> and <a href=\"https://www.axa.com.hk/assets/general_insurance/general/PICS.pdf\" target=\"_blank\">Personal Information Collection Statement</a>",
+    "checkbox2": "I agree with the use and provision of my personal data for direct marketing purposes as set out in the <a href=\"https://www.axa.com.hk/assets/general_insurance/general/PICS.pdf\" target=\"_blank\">Personal Information Collection Statement</a> (see \"Use and provision of personal data in direct marketing\") and wish to receive any promotional and direct marketing materials."
+  },
+  "documents-downloads": {
+    "download": "Download"
+  },
+  "steps": {
+    "yourQuote": "Your Quote",
+    "yourInformation": "Your Information",
+    "yourOffer": "Your offer",
+    "payment": "Payment",
+    "goBack": "Back to last step",
+    "goToHomePage": "Back to smart traveller home page"
+  },
+  "footer-title": {
+    "ourProducts": "Our Products",
+    "usefulLinks": "Useful Links",
+    "legal": "Legal",
+    "followAXA": "Follow AXA"
+  },
+  "footer-productlinks": {
+    "travelProtection": "Travel Protection",
+    "medicalProtection": "Medical Protection",
+    "carInsurance": "Car Insurance",
+    "lifeInsurance": "Life Insurance",
+    "homeInsurance": "Home Insurance"
+  },
+  "footer-usefullinks": {
+    "joinUs": "Join Us",
+    "axaGroup": "AXA Group"
+  },
+  "footer-legallinks": {
+    "siteMap": "Site Map",
+    "legalAndPrivacy": "Legal and Privacy Statement",
+    "report": "Report and Financial Statement"
+  },
+  "footer-disclaimer": {
+    "disclaimer": "Copyright © 2018 AXA Philippines. All rights reserved."
+  },
+  "messages": {
+    "sendEmailSuccess": "Quote Successfully Sent",
+    "sendEmailFail": "Quote Failed to Send",
+    "fillRequiredFields": "Fill required fields",
+    "emailInvalid": "Input valid email address"
+  },
+  "currency": {
+    "phpLeft": "₱ ",
+    "phpRight": " "
+  }
+}

@@ -1,0 +1,4 @@
+export default {
+  SINGLE_TRIP: 'SINGLE TRIP',
+  ANNUAL_MULTI_TRIP: 'ANNUAL MULTITRIP'
+};

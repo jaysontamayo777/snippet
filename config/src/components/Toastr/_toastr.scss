@@ -1,0 +1,13 @@
+.toastr {
+
+  .alert {
+    @extend .fade-in;
+    top: auto;
+    right: 15px;
+    position: absolute;
+
+    .top-content-bar-message {
+      padding-bottom: 0;
+    }
+  }
+}

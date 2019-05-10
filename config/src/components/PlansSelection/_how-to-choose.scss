@@ -1,0 +1,25 @@
+#how-to-choose {
+  margin-top: 5px;
+  
+  .panel {
+    box-shadow: none;
+    background: transparent;
+
+    &-heading {
+      background: transparent !important;
+    }
+
+    &-body {
+      .section-subheader {
+        font-size: 16px !important;
+        line-height: 1;
+        margin-bottom: 0px;
+        margin-top: 15px;
+      }
+
+    .section-subheader:first-child {
+      margin-top: 0px;
+    }
+    }
+  }
+}
